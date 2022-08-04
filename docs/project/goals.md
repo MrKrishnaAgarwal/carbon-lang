@@ -9,11 +9,12 @@ SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 <!-- toc -->
 
 ## Table of contents
-
--   [Overview](#overview)
--   [Project goals](#project-goals)
-    -   [Community and culture](#community-and-culture)
-    -   [Language tools and ecosystem](#language-tools-and-ecosystem)
+- [Goals](#goals)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Project goals](#project-goals)
+  - [Community and culture](#community-and-culture)
+  -  [Language tools and ecosystem](#language-tools-and-ecosystem)
 -   [Language goals and priorities](#language-goals-and-priorities)
     -   [Performance-critical software](#performance-critical-software)
     -   [Software and language evolution](#software-and-language-evolution)
